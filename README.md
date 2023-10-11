@@ -28,3 +28,6 @@ Teknologi yang Digunakan
  Database: MySQL
  Frontend: HTML, CSS, Bootstrap
  ibrary/Tool: jQuery, ResponsiveVoice
+
+sumber Domain Hosting Asli : [www.antriserrvc](http://localhost/Antrian-sistem/www.Antriservicehp.my.id)http://localhost/Antrian-sistem/www.Antriservicehp.my.id
+Kondisi : Mati
