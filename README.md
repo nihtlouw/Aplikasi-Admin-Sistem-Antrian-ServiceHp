@@ -29,5 +29,10 @@ Teknologi yang Digunakan
  Frontend: HTML, CSS, Bootstrap
  ibrary/Tool: jQuery, ResponsiveVoice
 
+ <p align="center">
+  <img width="700" height="350" src="Antrianservice.PNG"><br>
+  Gambar 3
+</p>
+
 sumber Domain Hosting Asli : [www.antriserrvc](http://localhost/Antrian-sistem/www.Antriservicehp.my.id)http://localhost/Antrian-sistem/www.Antriservicehp.my.id
 Kondisi : Mati
