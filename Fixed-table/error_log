@@ -1,0 +1,16 @@
+[06-Jul-2023 17:55:56 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'username'@'localhost' (using password: YES) in /home/antriser/public_html/Fixed-table/fixed_service_table.php on line 32
+[06-Jul-2023 17:55:57 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'username'@'localhost' (using password: YES) in /home/antriser/public_html/Fixed-table/fixed_service_table.php on line 32
+[06-Jul-2023 17:56:06 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'username'@'localhost' (using password: YES) in /home/antriser/public_html/Fixed-table/fixed_service_table.php on line 32
+[06-Jul-2023 17:56:46 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'username'@'localhost' (using password: YES) in /home/antriser/public_html/Fixed-table/fixed_service_table.php on line 32
+[06-Jul-2023 17:56:48 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'username'@'localhost' (using password: YES) in /home/antriser/public_html/Fixed-table/fixed_service_table.php on line 32
+[06-Jul-2023 17:57:03 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'username'@'localhost' (using password: YES) in /home/antriser/public_html/Fixed-table/fixed_service_table.php on line 32
+[06-Jul-2023 18:38:28 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/antriser/public_html/Fixed-table/fixed_service_table.php:50
+Stack trace:
+#0 /home/antriser/public_html/Fixed-table/fixed_service_table.php(50): mysqli_query(Object(mysqli), 'SELECT * FROM s...')
+#1 {main}
+  thrown in /home/antriser/public_html/Fixed-table/fixed_service_table.php on line 50
+[06-Jul-2023 18:38:30 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/antriser/public_html/Fixed-table/fixed_service_table.php:50
+Stack trace:
+#0 /home/antriser/public_html/Fixed-table/fixed_service_table.php(50): mysqli_query(Object(mysqli), 'SELECT * FROM s...')
+#1 {main}
+  thrown in /home/antriser/public_html/Fixed-table/fixed_service_table.php on line 50

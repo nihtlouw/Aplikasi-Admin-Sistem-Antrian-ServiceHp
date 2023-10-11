@@ -1,0 +1,61 @@
+[06-Jul-2023 15:13:22 UTC] PHP Parse error:  syntax error, unexpected variable "$row" in /home/antriser/public_html/Input-table/edit_service_table.php on line 84
+[06-Jul-2023 15:15:34 UTC] PHP Parse error:  syntax error, unexpected variable "$row" in /home/antriser/public_html/Input-table/edit_service_table.php on line 84
+[06-Jul-2023 15:16:58 UTC] PHP Parse error:  syntax error, unexpected variable "$row" in /home/antriser/public_html/Input-table/edit_service_table.php on line 84
+[06-Jul-2023 15:17:02 UTC] PHP Parse error:  syntax error, unexpected variable "$row" in /home/antriser/public_html/Input-table/edit_service_table.php on line 84
+[06-Jul-2023 15:21:00 UTC] PHP Parse error:  syntax error, unexpected variable "$row" in /home/antriser/public_html/Input-table/edit_service_table.php on line 84
+[06-Jul-2023 15:21:01 UTC] PHP Parse error:  syntax error, unexpected variable "$row" in /home/antriser/public_html/Input-table/edit_service_table.php on line 84
+[06-Jul-2023 15:21:46 UTC] PHP Parse error:  syntax error, unexpected variable "$row" in /home/antriser/public_html/Input-table/edit_service_table.php on line 84
+[06-Jul-2023 15:21:49 UTC] PHP Parse error:  syntax error, unexpected variable "$row" in /home/antriser/public_html/Input-table/edit_service_table.php on line 84
+[06-Jul-2023 15:21:49 UTC] PHP Parse error:  syntax error, unexpected variable "$row" in /home/antriser/public_html/Input-table/edit_service_table.php on line 84
+[06-Jul-2023 15:21:51 UTC] PHP Parse error:  syntax error, unexpected variable "$row" in /home/antriser/public_html/Input-table/edit_service_table.php on line 84
+[06-Jul-2023 15:21:51 UTC] PHP Parse error:  syntax error, unexpected variable "$row" in /home/antriser/public_html/Input-table/edit_service_table.php on line 84
+[06-Jul-2023 15:21:51 UTC] PHP Parse error:  syntax error, unexpected variable "$row" in /home/antriser/public_html/Input-table/edit_service_table.php on line 84
+[06-Jul-2023 15:21:52 UTC] PHP Parse error:  syntax error, unexpected variable "$row" in /home/antriser/public_html/Input-table/edit_service_table.php on line 84
+[06-Jul-2023 15:21:52 UTC] PHP Parse error:  syntax error, unexpected variable "$row" in /home/antriser/public_html/Input-table/edit_service_table.php on line 84
+[06-Jul-2023 15:21:52 UTC] PHP Parse error:  syntax error, unexpected variable "$row" in /home/antriser/public_html/Input-table/edit_service_table.php on line 84
+[06-Jul-2023 15:21:53 UTC] PHP Parse error:  syntax error, unexpected variable "$row" in /home/antriser/public_html/Input-table/edit_service_table.php on line 84
+[06-Jul-2023 15:21:53 UTC] PHP Parse error:  syntax error, unexpected variable "$row" in /home/antriser/public_html/Input-table/edit_service_table.php on line 84
+[06-Jul-2023 15:21:55 UTC] PHP Parse error:  syntax error, unexpected variable "$row" in /home/antriser/public_html/Input-table/edit_service_table.php on line 84
+[06-Jul-2023 15:21:57 UTC] PHP Parse error:  syntax error, unexpected variable "$row" in /home/antriser/public_html/Input-table/edit_service_table.php on line 84
+[06-Jul-2023 15:22:57 UTC] PHP Parse error:  syntax error, unexpected variable "$row" in /home/antriser/public_html/Input-table/edit_service_table.php on line 84
+[06-Jul-2023 15:27:15 UTC] PHP Warning:  Undefined array key "id" in /home/antriser/public_html/Input-table/edit_service_table.php on line 14
+[06-Jul-2023 15:27:15 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_num_rows(): Argument #1 ($result) must be of type mysqli_result, bool given in /home/antriser/public_html/Input-table/edit_service_table.php:20
+Stack trace:
+#0 /home/antriser/public_html/Input-table/edit_service_table.php(20): mysqli_num_rows(false)
+#1 {main}
+  thrown in /home/antriser/public_html/Input-table/edit_service_table.php on line 20
+[06-Jul-2023 15:27:18 UTC] PHP Warning:  Undefined array key "id" in /home/antriser/public_html/Input-table/edit_service_table.php on line 14
+[06-Jul-2023 15:27:18 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_num_rows(): Argument #1 ($result) must be of type mysqli_result, bool given in /home/antriser/public_html/Input-table/edit_service_table.php:20
+Stack trace:
+#0 /home/antriser/public_html/Input-table/edit_service_table.php(20): mysqli_num_rows(false)
+#1 {main}
+  thrown in /home/antriser/public_html/Input-table/edit_service_table.php on line 20
+[06-Jul-2023 15:36:27 UTC] PHP Fatal error:  Uncaught Error: Value of type bool is not callable in /home/antriser/public_html/Input-table/input_service_table.php:67
+Stack trace:
+#0 {main}
+  thrown in /home/antriser/public_html/Input-table/input_service_table.php on line 67
+[06-Jul-2023 15:36:29 UTC] PHP Fatal error:  Uncaught Error: Value of type bool is not callable in /home/antriser/public_html/Input-table/input_service_table.php:67
+Stack trace:
+#0 {main}
+  thrown in /home/antriser/public_html/Input-table/input_service_table.php on line 67
+[06-Jul-2023 15:36:33 UTC] PHP Fatal error:  Uncaught Error: Value of type bool is not callable in /home/antriser/public_html/Input-table/input_service_table.php:67
+Stack trace:
+#0 {main}
+  thrown in /home/antriser/public_html/Input-table/input_service_table.php on line 67
+[06-Jul-2023 15:36:35 UTC] PHP Fatal error:  Uncaught Error: Value of type bool is not callable in /home/antriser/public_html/Input-table/input_service_table.php:67
+Stack trace:
+#0 {main}
+  thrown in /home/antriser/public_html/Input-table/input_service_table.php on line 67
+[06-Jul-2023 15:36:38 UTC] PHP Fatal error:  Uncaught Error: Value of type bool is not callable in /home/antriser/public_html/Input-table/input_service_table.php:67
+Stack trace:
+#0 {main}
+  thrown in /home/antriser/public_html/Input-table/input_service_table.php on line 67
+[06-Jul-2023 15:53:31 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'antriser_db'@'localhost' (using password: YES) in /home/antriser/public_html/Input-table/koneksidb.php on line 10
+[06-Jul-2023 15:53:33 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'antriser_db'@'localhost' (using password: YES) in /home/antriser/public_html/Input-table/koneksidb.php on line 10
+[06-Jul-2023 16:04:11 UTC] PHP Parse error:  Unclosed '{' on line 53 in /home/antriser/public_html/Input-table/input_service_table.php on line 180
+[06-Jul-2023 16:04:12 UTC] PHP Parse error:  Unclosed '{' on line 53 in /home/antriser/public_html/Input-table/input_service_table.php on line 180
+[06-Jul-2023 16:04:13 UTC] PHP Parse error:  Unclosed '{' on line 53 in /home/antriser/public_html/Input-table/input_service_table.php on line 180
+[06-Jul-2023 16:04:13 UTC] PHP Parse error:  Unclosed '{' on line 53 in /home/antriser/public_html/Input-table/input_service_table.php on line 180
+[06-Jul-2023 16:04:14 UTC] PHP Parse error:  Unclosed '{' on line 53 in /home/antriser/public_html/Input-table/input_service_table.php on line 180
+[06-Jul-2023 16:04:28 UTC] PHP Parse error:  Unclosed '{' on line 53 in /home/antriser/public_html/Input-table/input_service_table.php on line 180
+[06-Jul-2023 16:04:29 UTC] PHP Parse error:  Unclosed '{' on line 53 in /home/antriser/public_html/Input-table/input_service_table.php on line 180
